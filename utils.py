@@ -1,6 +1,3 @@
-from re import I
-from select import kqueue
-import pandas as pd
 import streamlit as st
 
 choose1, choose2, choose3, choose4, choose5 = "", "", "", "", ""
